@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.danielfariati.com/sitemap.xml 
+Sitemap: http://danielfariati.github.io/sitemap.xml 

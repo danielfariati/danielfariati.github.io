@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://www.danielfariati.com/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama/</loc>
+    <loc>http://danielfariati.github.io/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama/</loc>
     
     <lastmod>2011-09-15T00:00:00-03:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.danielfariati.com/blog/2011/09/03/a-piramide-do-sucesso/</loc>
+    <loc>http://danielfariati.github.io/blog/2011/09/03/a-piramide-do-sucesso/</loc>
     
     <lastmod>2011-09-03T00:00:00-03:00</lastmod>
     
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://www.danielfariati.com/blog/2011/08/25/integracao-continua/</loc>
+    <loc>http://danielfariati.github.io/blog/2011/08/25/integracao-continua/</loc>
     
     <lastmod>2011-08-25T00:00:00-03:00</lastmod>
     
@@ -27,7 +27,7 @@
   </url>
   
   <url>
-    <loc>http://www.danielfariati.com/blog/2011/08/22/programacao-em-par/</loc>
+    <loc>http://danielfariati.github.io/blog/2011/08/22/programacao-em-par/</loc>
     
     <lastmod>2011-08-22T00:00:00-03:00</lastmod>
     
@@ -36,15 +36,15 @@
   
   
   <url>
-    <loc>http://www.danielfariati.com/blog/archives/</loc>
-    <lastmod>2014-09-07T21:54:30-03:00</lastmod>
+    <loc>http://danielfariati.github.io/blog/archives/</loc>
+    <lastmod>2014-09-07T21:58:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.danielfariati.com/</loc>
-    <lastmod>2014-09-07T21:54:30-03:00</lastmod>
+    <loc>http://danielfariati.github.io/</loc>
+    <lastmod>2014-09-07T21:58:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

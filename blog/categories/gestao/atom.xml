@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Gestão | Daniel Faria TI]]></title>
-  <link href="http://www.danielfariati.com/blog/categories/gestao/atom.xml" rel="self"/>
-  <link href="http://www.danielfariati.com/"/>
-  <updated>2014-09-07T21:54:30-03:00</updated>
-  <id>http://www.danielfariati.com/</id>
+  <link href="http://danielfariati.github.io/blog/categories/gestao/atom.xml" rel="self"/>
+  <link href="http://danielfariati.github.io/"/>
+  <updated>2014-09-07T21:58:23-03:00</updated>
+  <id>http://danielfariati.github.io/</id>
   <author>
     <name><![CDATA[Daniel Faria Gomes]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Integração Contínua]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/08/25/integracao-continua/"/>
+    <link href="http://danielfariati.github.io/blog/2011/08/25/integracao-continua/"/>
     <updated>2011-08-25T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/08/25/integracao-continua</id>
+    <id>http://danielfariati.github.io/blog/2011/08/25/integracao-continua</id>
     <content type="html"><![CDATA[<h2>O que é?</h2>
 
 <p>Segundo Martin Fowler, <em>“Integração Contínua é uma pratica de desenvolvimento de software onde os membros de um time integram seu trabalho frequentemente, geralmente cada pessoa integra pelo menos diariamente – podendo haver múltiplas integrações por dia. Cada integração é verificada por um build automatizado (incluindo testes) para detectar erros de integração o mais rápido possível. Muitos times acham que essa abordagem leva a uma significante redução nos problemas de integração e permite que um time desenvolva software coeso mais rapidamente”.</em></p>
@@ -53,9 +53,9 @@
   
   <entry>
     <title type="html"><![CDATA[Programação Em Par]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/08/22/programacao-em-par/"/>
+    <link href="http://danielfariati.github.io/blog/2011/08/22/programacao-em-par/"/>
     <updated>2011-08-22T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/08/22/programacao-em-par</id>
+    <id>http://danielfariati.github.io/blog/2011/08/22/programacao-em-par</id>
     <content type="html"><![CDATA[<p>Quando ouvi falar em programação em par pela primeira vez, não conseguia entender como aquilo seria produtivo e os benefícios que trazia. Minha forma de pensar sobre o assunto mudou com o tempo, e gostaria de compartilhar o conhecimento adquirido.</p>
 
 <h2>O que é programação em par?</h2>

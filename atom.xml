@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Daniel Faria TI]]></title>
-  <link href="http://www.danielfariati.com/atom.xml" rel="self"/>
-  <link href="http://www.danielfariati.com/"/>
-  <updated>2014-09-07T21:54:30-03:00</updated>
-  <id>http://www.danielfariati.com/</id>
+  <link href="http://danielfariati.github.io/atom.xml" rel="self"/>
+  <link href="http://danielfariati.github.io/"/>
+  <updated>2014-09-07T21:58:23-03:00</updated>
+  <id>http://danielfariati.github.io/</id>
   <author>
     <name><![CDATA[Daniel Faria Gomes]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[O Mundo Precisa Que Você Faça O Que Você Ama]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama/"/>
+    <link href="http://danielfariati.github.io/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama/"/>
     <updated>2011-09-15T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama</id>
+    <id>http://danielfariati.github.io/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama</id>
     <content type="html"><![CDATA[<p>Recentemente encontrei um artigo, escrito por Jonathan Mead, chamado &ldquo;<a href="http://zenhabits.net/the-world-needs-you-to-do-what-you-love/">The World Needs You To Do What You Love</a>&rdquo;. Achei tão interessante que vou fazer uma breve descrição das idéias principais do artigo.</p>
 
 <p><img src="https://farm1.staticflickr.com/183/442520914_2f6a953382_z.jpg" title="Happy Clown, por Mark Gstohl" ></p>
@@ -83,12 +83,12 @@ Até o próximo artigo!</p>
   
   <entry>
     <title type="html"><![CDATA[A Pirâmide Do Sucesso]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/09/03/a-piramide-do-sucesso/"/>
+    <link href="http://danielfariati.github.io/blog/2011/09/03/a-piramide-do-sucesso/"/>
     <updated>2011-09-03T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/09/03/a-piramide-do-sucesso</id>
+    <id>http://danielfariati.github.io/blog/2011/09/03/a-piramide-do-sucesso</id>
     <content type="html"><![CDATA[<p>Hoje vou falar sobre a pirâmide do sucesso, um resumo da filosofia de sucesso de John Wooden, o maior técnico de basquete de todos os tempos. Todas as informações que constam nesse post foram retiradas de seu livro <em>“Jogando Para Vencer”</em>. Recomendo a leitura.</p>
 
-<p><img src="http://www.danielfariati.com/images/piramide.png" title="A Pirâmide" ></p>
+<p><img src="http://danielfariati.github.io/images/piramide.png" title="A Pirâmide" ></p>
 
 <p>A pirâmide é formada por 15 blocos individuais que representam características pessoais que um líder deve ter para alcançar o sucesso. Sua disposição foi estudada e existe lógica por trás do posicionamento dos blocos.</p>
 
@@ -209,9 +209,9 @@ Até o próximo artigo!</p>
   
   <entry>
     <title type="html"><![CDATA[Integração Contínua]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/08/25/integracao-continua/"/>
+    <link href="http://danielfariati.github.io/blog/2011/08/25/integracao-continua/"/>
     <updated>2011-08-25T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/08/25/integracao-continua</id>
+    <id>http://danielfariati.github.io/blog/2011/08/25/integracao-continua</id>
     <content type="html"><![CDATA[<h2>O que é?</h2>
 
 <p>Segundo Martin Fowler, <em>“Integração Contínua é uma pratica de desenvolvimento de software onde os membros de um time integram seu trabalho frequentemente, geralmente cada pessoa integra pelo menos diariamente – podendo haver múltiplas integrações por dia. Cada integração é verificada por um build automatizado (incluindo testes) para detectar erros de integração o mais rápido possível. Muitos times acham que essa abordagem leva a uma significante redução nos problemas de integração e permite que um time desenvolva software coeso mais rapidamente”.</em></p>
@@ -247,9 +247,9 @@ Até o próximo artigo!</p>
   
   <entry>
     <title type="html"><![CDATA[Programação Em Par]]></title>
-    <link href="http://www.danielfariati.com/blog/2011/08/22/programacao-em-par/"/>
+    <link href="http://danielfariati.github.io/blog/2011/08/22/programacao-em-par/"/>
     <updated>2011-08-22T00:00:00-03:00</updated>
-    <id>http://www.danielfariati.com/blog/2011/08/22/programacao-em-par</id>
+    <id>http://danielfariati.github.io/blog/2011/08/22/programacao-em-par</id>
     <content type="html"><![CDATA[<p>Quando ouvi falar em programação em par pela primeira vez, não conseguia entender como aquilo seria produtivo e os benefícios que trazia. Minha forma de pensar sobre o assunto mudou com o tempo, e gostaria de compartilhar o conhecimento adquirido.</p>
 
 <h2>O que é programação em par?</h2>
