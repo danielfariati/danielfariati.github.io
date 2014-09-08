@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ágil | Daniel Faria TI]]></title>
+  <link href="http://www.danielfariati.com/blog/categories/agil/atom.xml" rel="self"/>
+  <link href="http://www.danielfariati.com/"/>
+  <updated>2014-09-07T21:54:30-03:00</updated>
+  <id>http://www.danielfariati.com/</id>
+  <author>
+    <name><![CDATA[Daniel Faria Gomes]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Integração Contínua]]></title>
+    <link href="http://www.danielfariati.com/blog/2011/08/25/integracao-continua/"/>
+    <updated>2011-08-25T00:00:00-03:00</updated>
+    <id>http://www.danielfariati.com/blog/2011/08/25/integracao-continua</id>
+    <content type="html"><![CDATA[<h2>O que é?</h2>
+
+<p>Segundo Martin Fowler, <em>“Integração Contínua é uma pratica de desenvolvimento de software onde os membros de um time integram seu trabalho frequentemente, geralmente cada pessoa integra pelo menos diariamente – podendo haver múltiplas integrações por dia. Cada integração é verificada por um build automatizado (incluindo testes) para detectar erros de integração o mais rápido possível. Muitos times acham que essa abordagem leva a uma significante redução nos problemas de integração e permite que um time desenvolva software coeso mais rapidamente”.</em></p>
+
+<p>Devido ao crescimento de popularidade das metodologias ágeis, a integração contínua tornou-se importante para a comunidade de desenvolvimento de software. Ela facilita a integração, não importando o tamanho da equipe e quantas pessoas estão alterando o código ao mesmo tempo.</p>
+
+<!-- more -->
+
+
+<h2>Repositórios e versionamento</h2>
+
+<p><img class="<a" src="href="https://farm6.staticflickr.com/5107/5586120369_5257190402_z.jpg">https://farm6.staticflickr.com/5107/5586120369_5257190402_z.jpg</a>&#8221; title=&#8221;Git to Subversion por Peter Rukavina&#8221; ></p>
+
+<p>Um <strong>sistema de controle de versão</strong> (versionamento) tem como finalidade gerenciar diferentes versões do sistema e centralizar seu armazenamento.  Existem muitos sistemas desse tipo disponíveis no mercado, como: CVS, Subversion, Rational ClearCase, Git, Mercurial, Bazaar, entre outros.</p>
+
+<p>Guardar versões facilita muito nossas vidas, pois se cometermos algum erro e só percebermos depois que o código já foi enviado, podemos desfazer as alterações com muita facilidade. O repositório se torna o destino final de tudo que é produzido pela equipe. Chamamos isso de integração.</p>
+
+<h2>Por que usar?</h2>
+
+<p>Utilizando as fases convencionais de desenvolvimento (integração apenas depois de completar o desenvolvimento), riscos são submetidos, existem muitos bugs na hora da integração, testes demoram muito mais e, claro, a entrega atrasa.</p>
+
+<p>Com IC, a grande vantagem é o <strong>feedback instantâneo</strong>. A cada commit feito no repositório, o build é gerado automaticamente, os testes são todos executados e as falhas são detectadas. Você pode automatizar o sistema para enviar um e-mail para toda a equipe sempre que houver algum erro no build. Você poderá fazer mudanças sem medo, porque se algo der errado, você saberá rapidamente.</p>
+
+<p>Quando os testes unitários falharem ou aparecer algum bug, os desenvolvedores podem reverter para uma versão sem bugs, sem perder tempo com debugging.  O caos de última hora é evitado, pois os problemas são detectados, e arrumados, continuamente. O feedback é instantâneo sobre a qualidade, funcionalidade e compatibilidade do código que está sendo escrito.</p>
+
+<p>Cauê Guerra, da Caelum, descreveu integração contínua como uma <em>“integração <strong>automática</strong> com processo de build <strong>automático</strong> e que roda testes de forma <strong>automática</strong> e <strong>automaticamente</strong> detecta falhas em cada pedaço”</em>.</p>
+
+<hr />
+
+<p>Espero que tenham gostado! Por favor, deixe um comentário com seu feedback.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Programação Em Par]]></title>
+    <link href="http://www.danielfariati.com/blog/2011/08/22/programacao-em-par/"/>
+    <updated>2011-08-22T00:00:00-03:00</updated>
+    <id>http://www.danielfariati.com/blog/2011/08/22/programacao-em-par</id>
+    <content type="html"><![CDATA[<p>Quando ouvi falar em programação em par pela primeira vez, não conseguia entender como aquilo seria produtivo e os benefícios que trazia. Minha forma de pensar sobre o assunto mudou com o tempo, e gostaria de compartilhar o conhecimento adquirido.</p>
+
+<h2>O que é programação em par?</h2>
+
+<p>O nome já deixa explícito sobre o que consiste a programação em par. Duas pessoas criando o código para um projeto de software, em conjunto (no mesmo computador). A pessoa que está digitando é chamada de <strong>condutor</strong> e a outra de <strong>navegador</strong>.</p>
+
+<!-- more -->
+
+
+<h2>Por que programar em par?</h2>
+
+<p><img class="<a" src="href="https://farm4.staticflickr.com/3024/2998452988_5a86c023f4_z.jpg">https://farm4.staticflickr.com/3024/2998452988_5a86c023f4_z.jpg</a>&#8221; title=&#8221;boo-turn por Fernando Mafra&#8221; ></p>
+
+<ul>
+<li><strong>Aprendizado compartilhado</strong></li>
+</ul>
+
+
+<p>Existem diversas opiniões sobre o mesmo assunto, cada um pensa de uma maneira diferente, tiveram experiências de vida diferentes. Programar em par faz essa diversidade no modo de pensar ser uma maneira de aprender mais, enxergar o problema de diversos pontos de vista.</p>
+
+<ul>
+<li><strong>Revisão contínua</strong></li>
+</ul>
+
+
+<p>A programação em par estimula a revisão contínua do código, pois enquanto um está conduzindo, o outro está procurando erros no pensamento do condutor. Isto faz com que a qualidade do software aumente sem impactar de forma significativa no prazo. Pode parecer difícil acreditar nisso, pois se tem a impressão que duas pessoas trabalhando separadamente terão mais produtividade, o que não é verdade. Lembre-se que quanto mais tempo demorar para se encontrar um problema, mais tempo levará para encontrar a causa do mesmo e, consequentemente, a solução.</p>
+
+<ul>
+<li><strong>Foco no projeto</strong></li>
+</ul>
+
+
+<p>Com o crescimento/popularização das redes sociais, ficou mais fácil perder o foco no projeto. Pare e pense: Quanto tempo você passa, durante o horário de trabalho, vendo seus e-mails, checando atualizações nas redes sociais, pensando sobre o que fará após o expediente? Muito tempo é a resposta que a maioria dará. A programação em par faz a concentração aumentar, pois sempre terá alguém do seu lado esperando a resolução do problema, interagindo com você. As interrupções externas também são menores enquanto se usa esta técnica, pois os outros percebem, com mais facilidade, que você está ocupado.</p>
+
+<h2>Dicas de como programar em par</h2>
+
+<ul>
+<li><strong>Entenda a forma que cada um trabalha</strong></li>
+</ul>
+
+
+<p>Sempre é bom entender a forma com que seu par prefere trabalhar e compartilhar a forma que você trabalha. Entender as preferências de cada um evita se frustrar quando precisar fazer algo diferente. Algumas pessoas gostam de desenhar diagramas, fazer comentários no programa inteiro… Eu, por exemplo, gosto de analisar o código. Faça o implícito ficar explícito.</p>
+
+<ul>
+<li><strong>Respire fundo e relaxe</strong></li>
+</ul>
+
+
+<p>Algumas pessoas são extremamente rápidas digitando. E reconheço que quando se está programando em par com alguém que não tenha esta habilidade, é preciso paciência. O mesmo vale para erros de sintaxe.  Porém, ficar implicando o tempo todo com seu parceiro passa certa desconfiança. Espere um segundo antes de apontar os erros, talvez ele perceba sozinho. Respire fundo. Claro que alguns erros de sintaxe/gramática são irritantes, mas são fáceis de concertar e não são o fim do mundo.</p>
+
+<ul>
+<li><strong>Realize trocas frequentemente</strong></li>
+</ul>
+
+
+<p>Trocar frequentemente cria um senso de liderança compartilhada, mas cuidado para não realizar as trocas em períodos muito curtos de tempo, isso pode acabar causando uma quebra no raciocínio e, consequentemente, diminuir a produtividade.  Crie uma forma de fazer a troca em momentos apropriados, como no fim de algum teste ou quando acabar uma função importante do código.</p>
+
+<ul>
+<li><strong>Garanta que ambas as partes saibam porque estão em par</strong></li>
+</ul>
+
+
+<p>Programar em par traz muitos benefícios, embora possam parecer pouco intuitivos. Lembre-se do entendimento compartilhado, de levar em conta mais de uma forma de resolver o problema, da revisão de código contínua, de ter novos olhos para o código, além de outros benefícios trazidos por esta prática.</p>
+
+<hr />
+
+<p>Espero que tenham gostado! Por favor, deixe um comentário com seu feedback.</p>
+]]></content>
+  </entry>
+  
+</feed>

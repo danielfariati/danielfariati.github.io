@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://www.danielfariati.com/blog/2011/09/15/o-mundo-precisa-que-voce-faca-o-que-voce-ama/</loc>
+    
+    <lastmod>2011-09-15T00:00:00-03:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.danielfariati.com/blog/2011/09/03/a-piramide-do-sucesso/</loc>
+    
+    <lastmod>2011-09-03T00:00:00-03:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.danielfariati.com/blog/2011/08/25/integracao-continua/</loc>
+    
+    <lastmod>2011-08-25T00:00:00-03:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.danielfariati.com/blog/2011/08/22/programacao-em-par/</loc>
+    
+    <lastmod>2011-08-22T00:00:00-03:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://www.danielfariati.com/blog/archives/</loc>
+    <lastmod>2014-09-07T21:54:30-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.danielfariati.com/</loc>
+    <lastmod>2014-09-07T21:54:30-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+</urlset>
