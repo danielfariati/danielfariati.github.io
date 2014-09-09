@@ -3,6 +3,8 @@ source "https://rubygems.org"
 group :development do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 2.0'
+  gem 'aws-sdk', '~> 1.52.0'
+  gem 'octopress-deploy', '~> 1.0.0.rc.10'
   gem 'octopress-hooks', '~> 2.2'
   gem 'octopress-date-format', '~> 2.0'
   gem 'jekyll-sitemap'
